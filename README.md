@@ -3,9 +3,8 @@
 Undergraduate thesis project — Department of Computer Science and Engineering, BUET.
 
 ## Authors
-
-- Sadia Tabassum (1905091)
-- Md. Azizul Haque Nadim (1905059)
+- Sadia Tabassum
+- Azizul Haque Nadim — [GitHub](https://github.com/nadimat-sham)
 
 **Supervisor:** Abu Wasif, Associate Professor, CSE, BUET
 
